@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 339d9f5b63a442f45b0522a98784c600
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 3304302017988980084, guid: 2fc6aae0fc34c0e4b935af90bd8a2592, type: 3}
+  - shootPoint: {instanceID: 0}
+  - shootSound: {fileID: 5872140326057861990, guid: 7ed54aa5a656e774fad0d21d8de81607, type: 3}
+  - muzzleEffect: {fileID: 19800004, guid: b0a227fc2e558f241b1c747820ccc361, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
