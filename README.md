@@ -1,6 +1,7 @@
 # Prototype-FPS
 * Author: Harvey Tully
 * Notes: Mainly created following Hands-On Unity 2020 Game Development by Nicolas Alejandro Borromeo
+* Worked and Built on Windows PC
 ## Assets From Unity Store
 * AllSky Free - 10 Sky / Skybox Set (Thank You: RPGwhitelock)
 * Dark Future Music (Thank You: Daniel Gooding)
